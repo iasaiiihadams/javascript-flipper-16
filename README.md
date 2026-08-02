@@ -1,2 +1,4 @@
-# javascript-flipper-16
+# Javascript Flipper 16
+
 Generate random hex colors for UI elements in JavaScript.
+
